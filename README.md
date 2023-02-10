@@ -23,9 +23,9 @@ PIC12F675 was chosen as a microprocessor, for mode indication I took a 7-segment
 
 The device is powered by a 12V car battery and has reverse polarity protection.
 
-![Control circuit](https://github.com/nva1773/Spot-Welder/blob/main/Pictures/spot-welder-control.jpg)
+![Control circuit](https://github.com/nva1773/Spot-Welder/blob/main/Pictures/spot-welder-control.JPG)
 
-![Power circuit](https://github.com/nva1773/Spot-Welder/blob/main/Pictures/spot-welder-power.jpg)
+![Power circuit](https://github.com/nva1773/Spot-Welder/blob/main/Pictures/spot-welder-power.JPG)
 
 Implemented 8 modes of operation, 0 - the output of the welding pulse is disabled, 1 - 7 the output of the welding pulse from 7 to 24 ms with a step of 3 ms.
 The welding process can be started in automatic mode or manually (selected by jumper on JP1).
@@ -40,7 +40,7 @@ I spread the circuit and the printed circuit board in PCAD, making a seal using 
 
 We solder the parts and apply a voltage, without a microprocessor, the number 7 should be on the display::
 
-![Making of the power board](https://github.com/nva1773/Spot-Welder/blob/main/Pictures/pcb-build-1.jpg)
+![Making of the power board](https://github.com/nva1773/Spot-Welder/blob/main/Pictures/pcb-build-2.jpg)
 
 ### Getting firmware:
 
