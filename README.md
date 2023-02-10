@@ -23,8 +23,10 @@ PIC12F675 was chosen as a microprocessor, for mode indication I took a 7-segment
 
 The device is powered by a 12V car battery and has reverse polarity protection.
 
+Control circuit:
 ![Control circuit](https://github.com/nva1773/Spot-Welder/blob/main/Pictures/spot-welder-control.JPG)
 
+Power circuit:
 ![Power circuit](https://github.com/nva1773/Spot-Welder/blob/main/Pictures/spot-welder-power.JPG)
 
 Implemented 8 modes of operation, 0 - the output of the welding pulse is disabled, 1 - 7 the output of the welding pulse from 7 to 24 ms with a step of 3 ms.
@@ -34,7 +36,7 @@ In manual mode, the start of the welding pulse is given by pressing and holding 
 
 ### Making:
 
-I spread the circuit and the printed circuit board in PCAD, making a seal using a simple "ironing" method - we print on chalk paper using a laser printer, transfer the toner to foil textolite with an iron, etch (for example, in ferric chloride), clean it, drill and tin:
+I spread the circuit and the printed circuit board in PCAD, making a seal using a simple "ironing" method - we print on chalk paper using a laser printer(1), transfer the toner to foil textolite with an iron (2), etch (for example, in ferric chloride), clean it, drill and tin (3):
 
 ![Making of the control board](https://github.com/nva1773/Spot-Welder/blob/main/Pictures/pcb-build-1.jpg)
 
