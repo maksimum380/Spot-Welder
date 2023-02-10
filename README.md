@@ -51,3 +51,5 @@ The program was written in Microchip's free development environment [MPLAB Xpres
 ![MPLAB Xpress Project](https://github.com/nva1773/Spot-Welder/blob/main/Pictures/www.mplab-xpresside.micorchip.com.JPG)
 
 To automate the receipt of output data for the CPU (delay in issuing a control pulse), a table [Excel file](https://github.com/nva1773/Spot-Welder/blob/main/Soft/DurationPulse.xlsm) was created with a macro, which is needed to simplify the receipt of data in the form of a list of values in text form. The data is copied into the "table_pulse" array of the spotwelder.c file.
+
+If there is no need to change the program, then the finished firmware is in the folder [firmware](https://github.com/nva1773/Spot-Welder/blob/main/Soft/Spot_welder.X.production.hex). There is also an archive with a project imported from MPLAB Express.
