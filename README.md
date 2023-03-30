@@ -47,7 +47,15 @@
 
 Запаюємо деталі і подаємо напругу, без мікропроцесора на дисплеї повинна бути цифра 7:
 
-![Making of the power board](https://github.com/nva1773/Spot-Welder/blob/main/Pictures/pcb-build-2.jpg)
+![Making of the control board](https://github.com/nva1773/Spot-Welder/blob/main/Pictures/pcb-build-2.jpg)
+
+Виготовляем силову плату (1), та запаюємо деталі (2)
+
+![Making of the power board](https://github.com/nva1773/Spot-Welder/blob/main/Pictures/pcb-build-3.jpg)
+
+Збираємо все до купи:
+
+![Build all boards](https://github.com/nva1773/Spot-Welder/blob/main/Pictures/pcb-build-all.jpg)
 
 ### Отримання прошивки:
 
