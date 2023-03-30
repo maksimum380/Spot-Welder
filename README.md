@@ -13,7 +13,7 @@
 
 ![chinese spot welding pcb](https://github.com/nva1773/Spot-Welder/blob/main/Pictures/chinese-spot-welding-pcb.jpg)
 
-По друкованій платі намалював схему, знайшов причину несправності (було пробито одного MOSFET з транзисторів).
+По друкованій платі намалював схему, знайшов причину несправності (було пробито одного з MOSFET транзисторів).
 
 ![chinese spot welding sch](https://github.com/nva1773/Spot-Welder/blob/main/Pictures/chinese-spot-welding-sch.jpg)
 
